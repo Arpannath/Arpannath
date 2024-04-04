@@ -10,3 +10,8 @@
 Arpannath/Arpannath is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
++ Name :“Bot”
++ verson:“0.0.2”
++ category :“user”
++ Facebook link:https://www.facebook.com/profile.php?id=100084826154436
+  
