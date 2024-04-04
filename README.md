@@ -14,4 +14,6 @@ You can click the Preview link to take a look at your changes.
 + verson:“0.0.2”
 + category :“user”
 + Facebook link:https://www.facebook.com/profile.php?id=100084826154436
-  
+  module,exports,config = {
+name :“Bot”
+Facebook link : https://www.facebook.com/profile.php?id=100084826154436
